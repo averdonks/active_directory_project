@@ -6,7 +6,8 @@ In this project, I set up an Active Directory server connected to a Windows 10 m
 
 Thanks to [MyDFIR](https://www.youtube.com/@MyDFIR) for providing the project idea and guide on his YouTube channel.
 
-**Table of Contents**
+## Table of Contents
+
 - [Active Directory Project](#active-directory-project)
   - [Project Description](#project-description)
   - [Part 1: Diagram](#part-1-diagram)
